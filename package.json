@@ -1,0 +1,22 @@
+{
+  "name": "corsanywhere",
+  "version": "1.0.0",
+  "description": "this is cors any where server. It's to avoid cors error in frontend.",
+  "main": "cors.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cors",
+    "any",
+    "where"
+  ],
+  "author": "Lyappunov",
+  "license": "ISC",
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
